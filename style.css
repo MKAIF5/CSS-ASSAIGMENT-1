@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(237, 91, 23);
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.abc {
+    color: rgb(12, 130, 24);
+    font-weight: bolder;
+}
+
+.a {
+    color: rgb(255, 170, 0);
+    background-color: rgb(204, 243, 106);
+}
+
+.b {
+    color: rgb(153, 10, 86);
+
+}
+
+a {
+    color: rgb(149, 203, 33);
+}
+
+.his {
+    text-align: left;
+}
